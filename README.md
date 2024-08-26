@@ -7,7 +7,7 @@ Repositorio de exemplo Aula Back-End
 
 **Nome do Projeto**: WishRun 
 
-**Versão**: 1.0.0
+**Versão**: 1.0
 
 **Data**: 26/08/2024
 
