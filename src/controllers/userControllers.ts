@@ -13,7 +13,7 @@ export const getUsers = async (req: Request, res: Response) => {
   }
 };
 
-// Função para adicionar um novo usuário
+// Função para adicionar um novo usuárioa
 export const addUser = async (req: Request, res: Response) => {
   const { name, email } = req.body;
   console.log(req.params);
