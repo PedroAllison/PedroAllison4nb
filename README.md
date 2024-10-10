@@ -1,19 +1,16 @@
-# PedroAllison4nb
-Repositorio de exemplo Aula Back-End
-
 # Documentação do Software WishRun
 
 ## Analise de Hardware e Software
 
 **Nome do Projeto**: WishRun 
 
-**Versão**: 1.0
+**Versão**: 1.0.0
 
 **Data**: 26/08/2024
 
-**Autor(es)**: Pedro Allison Ferraz da Silva
+**Autor(es)**: Gabriel Costa Ramos       **RA:** 62778   **Turma:** ADC 4NB
 
-**Descrição**: O WishRun é um programa/site que consiste em reconhecer programas ou até mesmo hardwares que possam ser compatíveis com o computador do usuário. Ele possui um banco de dados para administrar informações sobre jogos e outros softwares. O site tem uma aba para verificar a compatibilidade com o PC do usuário e, caso não seja compatível, ele sugere peças para deixar o PC compatível com o software desejado.
+**Descrição**: O WishRun é um site que consiste em reconhecer programas ou até mesmo hardwares que possam ser compatíveis com o computador do usuário. Ele possui um banco de dados para administrar informações sobre jogos e outros softwares. O site tem uma aba para verificar a compatibilidade do PC do usuario e verifica se é compativel com a peça selecionada ou jogo desejado, caso não seja compatível, ele sugere peças para deixar o PC compatível com o software desejado.
 
 ---
 
@@ -53,7 +50,7 @@ O WishRun surge da necessidade de ajudar os usuários a encontrar jogos e softwa
 
 ## Requisitos Não Funcionais
 
-1. **Usabilidade**: A interface do sistema deve ser intuitiva e fácil de usar, permitindo que usuários de todas as idades e níveis de experiência possam navegar e utilizar todas as funcionalidades sem dificuldades.
+1. **Usabilidade**: A interface do sistema deve ser intuitiva e fácil de usar, permitindo que usuários de todas as idades e níveis de experiência possam navegar e utilizar todas as funcionalidades sem problema algum.
 2. **Escalabilidade**: O sistema deve ser escalável para suportar um grande número de jogos, softwares e usuários cadastrados, sem perda de desempenho.
 3. **Disponibilidade**: O sistema deve estar disponível 99,9% do tempo, garantindo que os usuários possam acessá-lo sempre que necessário.
 4. **Confiabilidade**: O sistema deve garantir que as informações fornecidas sobre compatibilidade e sugestões de upgrades sejam precisas e confiáveis, minimizando erros e inconsistências.
@@ -79,25 +76,15 @@ O WishRun surge da necessidade de ajudar os usuários a encontrar jogos e softwa
 
 ## Tecnologias Utilizadas
 
-- Linguagem de Programação: Python, JavaScript
-- Banco de Dados: PostgreSQL
+- Linguagem de Programação: JavaScript
+- Banco de Dados: MySQL
 - Biblioteca de Visualização: D3.js
 
 
 ## Uso
 
 1. Acesse o site do WishRun em seu navegador.
-2. Crie uma conta ou faça login.
-3. Informe as especificações do seu computador.
-4. Pesquise por jogos e softwares ou use os filtros para encontrar o que você precisa.
-5. Verifique a compatibilidade e, se necessário, receba sugestões de upgrades.
-
-
-## Contato
-
-- **Nome**: Pedro Allison Ferraz da Silva
-- **RA**: 53923
-- **Turma**: ADS4NB
-- **Email**: pedro.fesilva45@gmail.com
-
----
+2. Informe as especificações do seu computador.
+3. Pesquise por jogos e softwares ou use os filtros para encontrar o que você precisa.
+4. Verifique a compatibilidade e, se necessário, receba sugestões de upgrades.
+5. Caso deseje realizar Review o usuario terá que se cadastrar no site
